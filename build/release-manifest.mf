@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: budgetly.Budgetly
+Class-Path: lib/derby.jar lib/derbyclient.jar lib/derbynet.jar lib/derbyshared.jar lib/derbytools.jar
+
